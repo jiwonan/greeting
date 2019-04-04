@@ -14,11 +14,6 @@
    1. 돈까스
 
 ![구글로고](https://user-images.githubusercontent.com/41474942/55395518-a55aae80-557c-11e9-961d-331284ad56c6.png)
-
-http://google.com
-
-[GitHub](http://github.com)
-
 [구글로 가기](https://google.co.kr/)
 
 > `공자` 가라사대...
